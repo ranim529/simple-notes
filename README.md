@@ -1,4 +1,4 @@
-\# SimpleNotes API
+# SimpleNotes API (with titles)
 
 
 
