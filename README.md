@@ -1,5 +1,10 @@
-\# SimpleNotes API
+# SimpleNotes API — v1.0 (with titles)
+HEAD
+# SimpleNotes API (with titles)
 
+
+# SimpleNotes API — v1.0
+main
 
 
 \## Run locally
@@ -18,5 +23,5 @@
 
 \- GET /notes
 
-\- POST /notes (body: `{"text": "..."}`)
+\- POST /notes (body: {"text": "...", "title": "..."})
 
